@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EditarInformacion</string>
+    <string name="hintNombre">Ingrese su nombre</string>
+    <string name="input_fecha">Ingrese su fecha de nacimiento</string>
+    <string name="hintTelefono">Ingrese su telefono</string>
+    <string name="hintEmail">Ingrese su email</string>
+    <string name="descripcionContacto">Descripcion del contacto</string>
+    <string name="titulos">Confirmar datos</string>
+    <string name="boton_edit">Editar datos</string>
+    <string name="siguiente">Siguiente</string>
+</resources>
